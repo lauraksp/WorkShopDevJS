@@ -1,0 +1,21 @@
+{
+  "name": "WorkShopDev_JavaScript",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^4.17.1",
+    "install": "^0.13.0",
+    "nodemon": "^2.0.3",
+    "nunjucks": "^3.2.1",
+    "sql": "^0.78.0",
+    "sqlite3": "^4.2.0"
+  }
+}
