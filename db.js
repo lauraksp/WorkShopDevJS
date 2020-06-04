@@ -16,7 +16,7 @@ db.serialize(function() {
     `)
    
 
-    // //inserir dado na tabela
+    //inserir dado na tabela
     // const query = `INSERT INTO ideas(
     //     image,
     //     title,
@@ -40,7 +40,7 @@ db.serialize(function() {
     // })
 
     // deletar um dado da tabela
-    // db.run(`DELETE FROM ideas WHERE id = ?`, [1], function(err) {
+    // db.run(`DELETE FROM ideas WHERE id = ?`, [20], function(err) {
     //     if (err) return console.log(err)
     //     console.log("DELETEI", this)
     // })
